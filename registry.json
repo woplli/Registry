@@ -1,0 +1,13 @@
+{
+    "meta":{
+        "created": "2025-06-16T20:08+00:00",
+        "updated": "2025-06-16T20:09+00:00"
+    },
+    "registry": {
+        "did:key:z6Mkor5aHrMa89vXfwMo5PddQ2oMNdSwdrjo55UytKRn6nB3":{
+            "name": "Woplli Issuer",
+            "location" : "Jersey City, NJ, USA",
+            "url": "https://www.woplli.com"
+        }
+    }
+}
