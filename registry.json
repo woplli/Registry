@@ -4,12 +4,12 @@
         "updated": "2025-09-07T19:08+00:00"
     },
     "registry": {
-        "did:key:z6Mkor5aHrMa89vXfwMo5PddQ2oMNdSwdrjo55UytKRn6nB3":{
+        "did:key:z6Mkor5aHrMa89vXfwMo5PddQ2oMNdSwdrjo55UytKRn6nB3": {
             "name": "Woplli Issuer",
-            "location" : "Location",
+            "location": "Location",
             "url": "https://www.woplli.com"
-        }
     }
-
+  }
 }
+
 
