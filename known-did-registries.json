@@ -50,10 +50,11 @@
 	
 	{
 		"name": "Woplli Test Issuer Registry",
-		"type": "woplli-style-test",
+		"type": "woplli-test",
 		"governanceUrl": "https://woplli.github.io/registry",
 		"url": "https://woplli.github.io/registry/registry.json"
 	}
 
 
 ]
+
