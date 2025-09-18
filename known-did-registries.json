@@ -2,8 +2,9 @@
 	{
 		"name": "Woplli Test Issuer Registry",
 		"type": "woplli-style-test",
-		"governanceUrl": "https://woplli.github.io/registry",
-		"url": "https://woplli.github.io/registry/registry.json"
+		"governanceUrl": "https://woplli.github.io/Registry",
+		"url": "https://woplli.github.io/Registry/registry.json"
 	}
 
 ]
+
