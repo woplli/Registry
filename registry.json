@@ -5,11 +5,12 @@
     },
     "registry": {
         "did:key:z6Mkor5aHrMa89vXfwMo5PddQ2oMNdSwdrjo55UytKRn6nB3": {
-            "name": "Woplli Issuer",
+            "name": "Woplli Registry",
             "location": "Location",
             "url": "https://www.woplli.com"
     }
   }
 }
+
 
 
