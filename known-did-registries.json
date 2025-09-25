@@ -49,7 +49,7 @@
     },
 	
 	{
-		"name": "Woplli Test Issuer Registry",
+		"name": "Woplli Test Registry",
 		"type": "woplli-test",
 		"governanceUrl": "https://woplli.github.io/Registry",
 		"url": "https://woplli.github.io/Registry/registry.json"
@@ -57,5 +57,6 @@
 
 
 ]
+
 
 
