@@ -1,7 +1,7 @@
 {
   "meta": {
     "created": "2025-06-16T20:08+00:00",
-    "updated": "2025-10-29T23:50:26.541Z"
+    "updated": "2025-10-30T23:01:06.229Z"
   },
   "registry": {
     "did:key:z6Mkor5aHrMa89vXfwMo5PddQ2oMNdSwdrjo55UytKRn6nB3": {
@@ -18,6 +18,11 @@
       "name": "Dr David Malan",
       "location": "Location",
       "url": "https://cs.harvard.edu/malan/"
+    },
+    "did:key:z6MkuX1qRsQ2Gw4E1me9nvSuBBNyCHZfNWSsYtWgeMos5ehq": {
+      "name": "Woplli Issuer",
+      "location": "Location",
+      "url": "https://www.woplli.com"
     }
   }
 }
